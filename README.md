@@ -1,19 +1,35 @@
 Table of Contents
+
 1.Introduction 
+
 2.Research problems 
+
 3.Data Set
+
 4.Implementation
+
 4.1 Data set
+
 4.2 Plot
+
 4.3 Word cloud
+
 4.4 Data preprocessing
+
 4.5 SVD Model
+
 4.5.1 Top-N Predictions
+
 4.6 KNN
+
 4.6.1 Top-N Predictions
+
 4.7 KNN Baseline
+
 4.7.1Top-N Predictions
+
 5.Conclusion
+
 6.Future Scope
 
 

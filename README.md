@@ -90,5 +90,4 @@ Recall 0.0693 0.0472 0.0801
 
 
 6.Future Scope
-For the future scope, clustering on the dataset can be performed based on genre. Other
-recommender techniques can be applied for better accurate results.
+For the future scope, clustering on the dataset can be performed based on genre. Other recommender techniques can be applied for better accurate results.
